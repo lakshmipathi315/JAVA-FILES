@@ -1,6 +1,6 @@
 class Automaticnumber
 {
-	public static void main(String args[])
+	
 	{
 		int num=99,square,rev=0,rev1=0,count=0;
 		square=num*num;
